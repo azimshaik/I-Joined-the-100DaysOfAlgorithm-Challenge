@@ -39,3 +39,4 @@ This is the list of people who are taking the challenge with link to their main 
 [Haley Sanders](https://github.com/HFSanders/100-Days-of-Algorithm-Challenge)  
 [Ameem Shaik](https://github.com/ameem91/100-Days-of-Algorithm-Challenge)  
 [Balaji](https://github.com/Balaji2198/I-Joined-the-100DaysOfAlgorithm-Challenge)  
+[Azim Shaik](https://github.com/azimshaik/100-days-of-Algorithm-Challenge)
